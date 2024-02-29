@@ -1,0 +1,43 @@
+F:\C# Repos\featFishCheck01\featFishCheck01\bin\Debug\featFishCheck01.exe.config
+F:\C# Repos\featFishCheck01\featFishCheck01\bin\Debug\featFishCheck01.exe
+F:\C# Repos\featFishCheck01\featFishCheck01\bin\Debug\featFishCheck01.pdb
+F:\C# Repos\featFishCheck01\featFishCheck01\obj\Debug\featFishCheck01.csproj.AssemblyReference.cache
+F:\C# Repos\featFishCheck01\featFishCheck01\obj\Debug\featFishCheck01.csproj.SuggestedBindingRedirects.cache
+F:\C# Repos\featFishCheck01\featFishCheck01\obj\Debug\featFishCheck01.Form1.resources
+F:\C# Repos\featFishCheck01\featFishCheck01\obj\Debug\featFishCheck01.Properties.Resources.resources
+F:\C# Repos\featFishCheck01\featFishCheck01\obj\Debug\featFishCheck01.csproj.GenerateResource.cache
+F:\C# Repos\featFishCheck01\featFishCheck01\obj\Debug\featFishCheck01.csproj.CoreCompileInputs.cache
+F:\C# Repos\featFishCheck01\featFishCheck01\obj\Debug\featFishCheck01.exe
+F:\C# Repos\featFishCheck01\featFishCheck01\obj\Debug\featFishCheck01.pdb
+F:\C# Repos\featFishCheck01\featFishCheck01\bin\Debug\Cognex.VisionPro.CalibFix.dll
+F:\C# Repos\featFishCheck01\featFishCheck01\bin\Debug\Cognex.VisionPro.Core.dll
+F:\C# Repos\featFishCheck01\featFishCheck01\bin\Debug\Cognex.VisionPro.CorePlus.dll
+F:\C# Repos\featFishCheck01\featFishCheck01\bin\Debug\Cognex.VisionPro.dll
+F:\C# Repos\featFishCheck01\featFishCheck01\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+F:\C# Repos\featFishCheck01\featFishCheck01\bin\Debug\stdole.dll
+F:\C# Repos\featFishCheck01\featFishCheck01\obj\Debug\featFishCheck01.csproj.CopyComplete
+F:\Featfish\20240102\featFishCheck01\featFishCheck01\bin\Debug\featFishCheck01.exe.config
+F:\Featfish\20240102\featFishCheck01\featFishCheck01\bin\Debug\featFishCheck01.exe
+F:\Featfish\20240102\featFishCheck01\featFishCheck01\bin\Debug\featFishCheck01.pdb
+F:\Featfish\20240102\featFishCheck01\featFishCheck01\bin\Debug\Cognex.VisionPro.CalibFix.dll
+F:\Featfish\20240102\featFishCheck01\featFishCheck01\bin\Debug\Cognex.VisionPro.Core.dll
+F:\Featfish\20240102\featFishCheck01\featFishCheck01\bin\Debug\Cognex.VisionPro.CorePlus.dll
+F:\Featfish\20240102\featFishCheck01\featFishCheck01\bin\Debug\Cognex.VisionPro.dll
+F:\Featfish\20240102\featFishCheck01\featFishCheck01\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+F:\Featfish\20240102\featFishCheck01\featFishCheck01\bin\Debug\stdole.dll
+F:\Featfish\20240102\featFishCheck01\featFishCheck01\bin\Debug\Cognex.VisionPro3D.Core.dll
+F:\Featfish\20240102\featFishCheck01\featFishCheck01\bin\Debug\Cognex.VisionPro.xml
+F:\Featfish\20240102\featFishCheck01\featFishCheck01\bin\Debug\Cognex.VisionPro.CalibFix.xml
+F:\Featfish\20240102\featFishCheck01\featFishCheck01\bin\Debug\Cognex.VisionPro.Core.xml
+F:\Featfish\20240102\featFishCheck01\featFishCheck01\bin\Debug\Cognex.VisionPro.CorePlus.xml
+F:\Featfish\20240102\featFishCheck01\featFishCheck01\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+F:\Featfish\20240102\featFishCheck01\featFishCheck01\bin\Debug\Cognex.VisionPro3D.Core.xml
+F:\Featfish\20240102\featFishCheck01\featFishCheck01\obj\Debug\featFishCheck01.csproj.AssemblyReference.cache
+F:\Featfish\20240102\featFishCheck01\featFishCheck01\obj\Debug\featFishCheck01.Form1.resources
+F:\Featfish\20240102\featFishCheck01\featFishCheck01\obj\Debug\featFishCheck01.Properties.Resources.resources
+F:\Featfish\20240102\featFishCheck01\featFishCheck01\obj\Debug\featFishCheck01.csproj.GenerateResource.cache
+F:\Featfish\20240102\featFishCheck01\featFishCheck01\obj\Debug\featFishCheck01.csproj.CoreCompileInputs.cache
+F:\Featfish\20240102\featFishCheck01\featFishCheck01\obj\Debug\featFishCheck01.csproj.CopyComplete
+F:\Featfish\20240102\featFishCheck01\featFishCheck01\obj\Debug\featFishCheck01.exe
+F:\Featfish\20240102\featFishCheck01\featFishCheck01\obj\Debug\featFishCheck01.pdb
+F:\Featfish\20240102\featFishCheck01\featFishCheck01\obj\Debug\featFishCheck01.csproj.SuggestedBindingRedirects.cache
